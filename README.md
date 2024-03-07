@@ -1,6 +1,6 @@
-## FREE CODE CAMP CERTIFICATION PROJECT ##
-# Responsive-Web-Design---Tribute-Page
-# Tribute Page - John Harvard
+# FREE CODE CAMP CERTIFICATION PROJECT #
+## Responsive-Web-Design---Tribute-Page
+## Tribute Page - John Harvard
 
 This project is a tribute page for John Harvard, an English minister and the namesake of Harvard University. The page provides information about his life, contributions, and legacy.
 
