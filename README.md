@@ -36,7 +36,7 @@ This project is a tribute page for John Harvard, an English minister and the nam
 
 1. Access the page by clicking on the following link:
 
-    https://theeddusgithub.io/Responsive-Web-Design---Tribute-Page/
+    https://theeddu.github.io/Responsive-Web-Design---Tribute-Page/
 
 ## PORTUGUÊS
 # PROJETO DE CERTIFICAÇÃO FREE CODE CAMP #
